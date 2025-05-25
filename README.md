@@ -61,7 +61,7 @@ Otherwise, all links will open in the same tab.
 ## What I learned
 how to deal with Debouncing technique and custom hooks.
 
-1- Debouncing technique and custom hooks
+1- Debouncing technique
 ```
  const debounce = setTimeout(() => {
         // -- 1 -- Ensure that the term is not empty before making the request
