@@ -1,6 +1,6 @@
 # Search-App-kimz
 
-This is a simple project to learn and practice react"Hooks" and Debouncing technique and custom hooks. 
+This is a simple project to learn and practice react"Hooks", Debouncing technique and custom hooks. 
 
 ## Table of contents
 
@@ -15,13 +15,14 @@ This is a simple project to learn and practice react"Hooks" and Debouncing techn
 
 
 ## overview
-This is a simple project to learn and practice react"Hooks" and Debouncing technique and custom hooks. 
+This is a simple project to learn and practice react"Hooks",Debouncing technique and custom hooks. 
 
 
 ## Installation
 To get started with this project, follow these steps:
 
 you can clone the project or download it as Zip file.
+
 1. Clone the repository:
    ```bash
    https://github.com/olahasan/Search-App-kimz.git
